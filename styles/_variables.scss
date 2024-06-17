@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&family=Work+Sans:wght@100..900&display=swap");
+
+// DEFAULT COLORS
+$whiteColor: #ffffff;
+$whiteColor75:rgba(255, 255, 255, 0.75);
+$blackColor: #000000;
+
+// BG COLORS
+$bgWhite: #ffffff;
+$bgGreen: #74c69d;
+
+// DARK COLORS
+$darkColor100: #212529;
+$darkColor75: rgba(33, 37, 41, 0.75);
+$darkColor50: rgba(33, 37, 41, 0.5);
+$boxShadowColor: rgba(0, 0, 0, 0.25);
+
+$bgForm: #eee;
+
+// FONTS
+$fontFamilyWork: "Work Sans", sans-serif;
+$fontFamilyCrimson: "Crimson Text", serif;
+
+// FONTSIZE
+$fontSize15: 15px;
+$fontSize16: 16px;
+$fontSize20: 20px;
+$fontSize24: 24px;
+$fontSize28: 28px;
+$fontSize30: 30px;
+$fontSize40: 40px;
+
+
+// FONTWEIGHT
+$fontWeight400: 400;
+$fontWeight500: 500;
+$fontWeight500: 700;
+
+// BREAKPOINTS
+$breakpoint_xxl: 1440px;
+$breakpoint_l: 1000px;
+$breakpoint_sm: 500px;
+
